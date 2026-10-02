@@ -31,3 +31,7 @@ python3 package-site.py
 In Cloudflare, open **Workers & Pages → privion-coming-soon → Create deployment**, choose production, upload `site.zip` and deploy. Only the six public assets are packaged. No credentials are stored in this repository. GitHub commits do not automatically deploy; this project uses Direct Upload.
 
 Check the page, CSS, favicon and privacy page over HTTPS after publishing, and inspect mobile layout. `_headers` supplies CSP, referrer policy and permissions restrictions. The site has no forms, launch date or claims that the app is already available.
+
+## Image reference
+
+- [Google Photos shared link](https://photos.google.com/share/AF1QipNNjZVzGOlfE8thSVx8Ei1danF4eHo67Nma5H7P9ZLyXfd9vbtgBPoP7J4ectJVAA?key=U1R2ZnFhc0RQUTQyZE9jVDFiNDdzak9GRjBRQVBR)
